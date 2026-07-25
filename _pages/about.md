@@ -17,42 +17,71 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello! I am Zhijin Rong (容志谨), an undergraduate student in Mathematics and Applied Mathematics at Ocean University of China. My research interests focus on **mathematical principles in machine learning (particularly domain shift problems), image processing and analysis, and biomedical data (computational biology and computational pathology)**. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have a strong background in mathematical modeling and scientific computing, having won awards such as the Meritorious Winner in the 2025 MCM/ICM and National Second Prize in the 2025 CUMCM. You can check my Google Scholar profile <a href='https://scholar.google.com/citations?user=qgcpKl4AAAAJ'>here <strong><span id='total_cit'></span></strong></a> (You can also view citation badge <a href='https://scholar.google.com/citations?user=qgcpKl4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.03*: &nbsp;🎉🎉 Our paper on "DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification" received a revision invitation from *Biomedical Signal Processing and Control* (BSPC, JCR Q1).
+- *2025.04*: &nbsp;🎉🎉 Awarded Meritorious Winner (International First Prize) in the 2025 Mathematical Contest in Modeling (MCM/ICM).
+- *2025.09*: &nbsp;🎉🎉 Awarded National Second Prize in the 2025 National Undergraduate Mathematics Modeling Competition.
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC (Revise)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification](https://scholar.google.com/citations?user=qgcpKl4AAAAJ)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zhijin Rong**, Xueying Zeng\*, J. Zhang, Q. Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*Biomedical Signal Processing and Control* (Under Revision, 2026)
+
+[**Project**](https://scholar.google.com/citations?user=qgcpKl4AAAAJ) <strong><span class='show_paper_citations' data='qgcpKl4AAAAJ:ALROH1vI_8AC'></span></strong>
+- Introduced statistical sampling theory to construct a dual-enhancement framework (DARE) to address scarce annotations and high heterogeneity in medical images.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Highl. Sci. Eng. Technol.</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Study on the Impact of Nuclear Pollution Discharge on the Seafood Industry in Coastal Cities Based on the DID-SARIMA Model](https://doi.org/10.54097/fy4z4r12)
+
+Xuan Wang\*, **Zhijin Rong**\*, et al.
+
+*Highlights in Science, Engineering and Technology*, 2025
+
+[**Paper**](https://doi.org/10.54097/fy4z4r12)
+- Integrated Difference-in-Differences (DID) causal inference with SARIMA dynamic time-series forecasting to evaluate economic impacts.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04* **Meritorious Winner (International First Prize)**, Mathematical Contest in Modeling (MCM/ICM)
+- *2025.09* **National Second Prize**, National Undergraduate Mathematics Modeling Competition (CUMCM)
+- *2024.10* **First-Class Comprehensive University Scholarship** & **Outstanding Student of the University** (2023-2024, 2024-2025)
+- *2025.06* **Provincial Second Prize**, National Undergraduate Mathematics Modeling Competition (CUMCM, 2024)
+- *2025.03* **Honorable Mention**, Mathematical Contest in Modeling (MCM, 2026)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📖 Education
+- *2023.09 - Present*, **Ocean University of China (OUC)**, Qingdao, China.
+  - Undergraduate student in Mathematics and Applied Mathematics. 
+  - GPA: 3.67 / 4.0 (Weighted Average: 88.492 / 100), Ranking: 22 / 136 (Top 16.2%).
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 💼 Student Leadership & Academic Service
+- *2025.09 - Present*, **Director-General**, School New Media Center, Ocean University of China.
+- *2025.09 - Present*, **Publicity Committeeman**, Student Communist Party Branch.
+- *2025.09 - 2026.06*, **Outstanding Teaching Assistant**, Algorithms and Data Structure Analysis.
+- *2024.09 - 2025.09*, **Head of Operations Department**, School New Media Center.
+
+
+# 💻 Research Experience
+- **Elimination of Batch Effects in Viral Abundance Quantification** | *Core Member* (2026 - Present)
+  - Applying mathematical and statistical theories, specifically Bayesian estimation and robust regression modeling methodologies, to systematically eliminate batch effects in viral abundance across high-throughput sequencing datasets.
+- **DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification** | *First Author* (2023.11 - Present)
+  - Developed the DARE dual-enhancement framework using statistical sampling theory, combining image-space low-order statistic perturbation and feature-space pseudo-domain interpolation to resolve domain shift issues under few-shot scenarios. Resulted in a first-author paper currently under revision at *Biomedical Signal Processing and Control* (JCR Q1).
