@@ -19,7 +19,7 @@ redirect_from:
 
 Hello! I am Zhijin Rong (容志谨), an undergraduate student in Mathematics and Applied Mathematics at Ocean University of China. My research interests focus on **mathematical principles in machine learning (particularly domain shift problems), image processing and analysis, and biomedical data (computational biology and computational pathology)**. 
 
-I have a strong background in mathematical modeling and scientific computing, having won awards such as the Meritorious Winner in the 2025 MCM/ICM and National Second Prize in the 2025 CUMCM. You can check my Google Scholar profile <a href='https://scholar.google.com/citations?user=qgcpKl4AAAAJ'>here <strong><span id='total_cit'></span></strong></a> (You can also view citation badge <a href='https://scholar.google.com/citations?user=qgcpKl4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have a strong background in mathematical modeling and scientific computing, having won awards such as the Meritorious Winner in the 2025 MCM/ICM and National Second Prize in the 2025 CUMCM. You can check my Google Scholar profile <a href='https://scholar.google.com/citations?user=qgcpKl4AAAAJ'>here <strong><span id='total_cit'></span></strong></a> 
 
 
 # 🔥 News
