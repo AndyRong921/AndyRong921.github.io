@@ -29,7 +29,7 @@ I have a strong background in mathematical modeling and scientific computing, ha
 - *2025.11*: &nbsp;🎉🎉 Awarded National Second Prize in the 2025 National Undergraduate Mathematics Modeling Competition.
 - *2025.04*: &nbsp;🎉🎉 Awarded Meritorious Winner (International First Prize) in the 2025 Mathematical Contest in Modeling (ICM).
 - *2025.03*: &nbsp;🎉🎉 Our research paper on coastal seafood industry economic impact using the DID-SARIMA model was officially accepted and published in Highlights in Science, Engineering and Technology
-- *2024.11*:  &nbsp;🎉🎉 Awarded Provincial Second Prize in the 2024 National Undergraduate Mathematics Modeling Competition (Shandong Division).
+- *2024.11*: &nbsp;🎉🎉 Awarded Provincial Second Prize in the 2024 National Undergraduate Mathematics Modeling Competition (Shandong Division).
 
 
 
