@@ -88,7 +88,7 @@ Xuan Wang\*, **Zhijin Rong**\*, et al.
 
 
 
-# 📖 Education
+# 📖 Educations
 - *2023.09 - Present*, **Ocean University of China (OUC)**, Qingdao, China.
   - Undergraduate student in Mathematics and Applied Mathematics.
 
