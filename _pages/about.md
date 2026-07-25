@@ -31,7 +31,7 @@ I have a strong background in mathematical modeling and scientific computing, ha
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC (Revise)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC (Revise)</div><img src='images/dare.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification](https://scholar.google.com/citations?user=qgcpKl4AAAAJ)
@@ -53,7 +53,7 @@ I have a strong background in mathematical modeling and scientific computing, ha
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Highl. Sci. Eng. Technol.</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Highl. Sci. Eng. Technol.</div><img src='images/did.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Study on the Impact of Nuclear Pollution Discharge on the Seafood Industry in Coastal Cities Based on the DID-SARIMA Model](https://doi.org/10.54097/fy4z4r12)
