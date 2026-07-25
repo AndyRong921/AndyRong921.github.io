@@ -95,7 +95,7 @@ Xuan Wang\*, **Zhijin Rong**\*, et al.
 
 # 💼 Academic Service
 - *2025.03 - 2026.06*, **Teaching Assistant**, Undergraduate second-year courses of OUC, Numerical methods.
-- *2025.09 - 2026.02*, **Teaching Assistant (Outstanding)**, Undergraduate second-year courses of OUC,, Ordinary Differential Equation.
+- *2025.09 - 2026.02*, **Teaching Assistant (Outstanding)**, Undergraduate second-year courses of OUC, Ordinary Differential Equation.
 
 
 
