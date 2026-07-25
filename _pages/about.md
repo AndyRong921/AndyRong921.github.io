@@ -23,9 +23,13 @@ I have a strong background in mathematical modeling and scientific computing, ha
 
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 Our paper on "DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification" received a revision invitation from *Biomedical Signal Processing and Control* (BSPC, JCR Q1).
+- *2026.05*: &nbsp;🎉🎉 Our paper on "DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification" received a revision invitation from *Biomedical Signal Processing and Control* (BSPC, JCR Q1).
+- *2026.05*: &nbsp;🎉🎉 Awarded Honorable Mention (International Second Prize) in the 2026 Mathematical Contest in Modeling (MCM).
+- *2026.04*: &nbsp;🎉🎉 Honored as Outstanding Teaching Assistant of the University (top 1% university-wide) for the course Ordinary Differential Equation.
 - *2025.11*: &nbsp;🎉🎉 Awarded National Second Prize in the 2025 National Undergraduate Mathematics Modeling Competition.
-- *2025.04*: &nbsp;🎉🎉 Awarded Meritorious Winner (International First Prize) in the 2025 Mathematical Contest in Modeling (MCM/ICM).
+- *2025.04*: &nbsp;🎉🎉 Awarded Meritorious Winner (International First Prize) in the 2025 Mathematical Contest in Modeling (ICM).
+- *2025.03*: &nbsp;🎉🎉 Our research paper on coastal seafood industry economic impact using the DID-SARIMA model was officially accepted and published in Highlights in Science, Engineering and Technology
+- *2024.11*:  &nbsp;🎉🎉 Awarded Provincial Second Prize in the 2024 National Undergraduate Mathematics Modeling Competition (Shandong Division).
 
 
 
@@ -88,15 +92,15 @@ Xuan Wang\*, **Zhijin Rong**\*, et al.
 
 
 # 💼 Academic Service
-- *2025.03 - 2026.06*, **Teaching Assistant**, Undergraduate second-year courses, Numerical methods.
-- *2025.09 - 2026.02*, **Outstanding Teaching Assistant**, Undergraduate second-year courses, Ordinary Differential Equation.
+- *2025.03 - 2026.06*, **Teaching Assistant**, Undergraduate second-year courses of OUC, Numerical methods.
+- *2025.09 - 2026.02*, **Teaching Assistant (Outstanding)**, Undergraduate second-year courses of OUC,, Ordinary Differential Equation.
 
 
 
 # 💻 Research Experience
-- **Elimination of Batch Effects in Viral Abundance Quantification** | *Core Member* (2026 - Present)
+- **Elimination of Batch Effects in Viral Abundance Quantification** | *Core Member* (2026.04 - Present)
   - Applying mathematical and statistical theories, specifically Bayesian estimation and robust regression modeling methodologies, to systematically eliminate batch effects in viral abundance across high-throughput sequencing datasets.
-- **DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification** | *First Author* (2023.11 - Present)
+- **DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification** | *First Author* (2025.03 - 2026.04)
   - Developed the DARE dual-enhancement framework using statistical sampling theory, combining image-space low-order statistic perturbation and feature-space pseudo-domain interpolation to resolve domain shift issues under few-shot scenarios. Resulted in a first-author paper currently under revision at *Biomedical Signal Processing and Control* (JCR Q1).
 - **Research on the Economic Impact of Coastal Seafood Industry Based on DID-SARIMA Model** | *Co-First Author* (2023 - 2024)
   - Integrated the Difference-in-Differences (DID) method for policy impact causal inference and utilized the SARIMA model for seasonal time-series dynamic forecasting, quantitatively evaluating the long-term economic effects of nuclear wastewater discharge on the regional coastal seafood industry. Resulted in a co-first-author publication in *Highlights in Science, Engineering and Technology*.
