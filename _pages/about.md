@@ -69,15 +69,13 @@ Xuan Wang\*, **Zhijin Rong**\*, et al.
 
 # 📖 Education
 - *2023.09 - Present*, **Ocean University of China (OUC)**, Qingdao, China.
-  - Undergraduate student in Mathematics and Applied Mathematics. 
-  - GPA: 3.67 / 4.0 (Weighted Average: 88.492 / 100), Ranking: 22 / 136 (Top 16.2%).
+  - Undergraduate student in Mathematics and Applied Mathematics.
 
 
-# 💼 Student Leadership & Academic Service
-- *2025.09 - Present*, **Director-General**, School New Media Center, Ocean University of China.
-- *2025.09 - Present*, **Publicity Committeeman**, Student Communist Party Branch.
-- *2025.09 - 2026.06*, **Outstanding Teaching Assistant**, Algorithms and Data Structure Analysis.
-- *2024.09 - 2025.09*, **Head of Operations Department**, School New Media Center.
+# 💼 Academic Service
+- *2025.03 - 2026.06*, **Teaching Assistant**, Undergraduate second-year courses, Numerical methods.
+- *2025.09 - 2026.02*, **Outstanding Teaching Assistant**, Undergraduate second-year courses, Ordinary Differential Equation.
+
 
 
 # 💻 Research Experience
