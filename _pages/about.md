@@ -24,8 +24,9 @@ I have a strong background in mathematical modeling and scientific computing, ha
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 Our paper on "DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification" received a revision invitation from *Biomedical Signal Processing and Control* (BSPC, JCR Q1).
+- *2025.11*: &nbsp;🎉🎉 Awarded National Second Prize in the 2025 National Undergraduate Mathematics Modeling Competition.
 - *2025.04*: &nbsp;🎉🎉 Awarded Meritorious Winner (International First Prize) in the 2025 Mathematical Contest in Modeling (MCM/ICM).
-- *2025.09*: &nbsp;🎉🎉 Awarded National Second Prize in the 2025 National Undergraduate Mathematics Modeling Competition.
+
 
 
 # 📝 Publications 
@@ -39,7 +40,15 @@ I have a strong background in mathematical modeling and scientific computing, ha
 
 *Biomedical Signal Processing and Control* (Under Revision, 2026)
 
-[**Project**](https://scholar.google.com/citations?user=qgcpKl4AAAAJ) <strong><span class='show_paper_citations' data='qgcpKl4AAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/AndyRong921/DARE) <strong><span class='show_paper_citations' data='qgcpKl4AAAAJ:ALROH1vI_8AC'></span></strong>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3.8%2B-green" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-2.0.0%2B-orange" alt="PyTorch">
+  <a href="https://github.com/AndyRong921/DARE"><img src="https://img.shields.io/github/stars/AndyRong921/DARE?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/AndyRong921/DARE"><img src="https://img.shields.io/github/forks/AndyRong921/DARE?style=social" alt="GitHub forks"></a>
+</p>
+
 - Introduced statistical sampling theory to construct a dual-enhancement framework (DARE) to address scarce annotations and high heterogeneity in medical images.
 </div>
 </div>
@@ -54,6 +63,12 @@ Xuan Wang\*, **Zhijin Rong**\*, et al.
 *Highlights in Science, Engineering and Technology*, 2025
 
 [**Paper**](https://doi.org/10.54097/fy4z4r12)
+
+<p>
+  <img src="https://img.shields.io/badge/R-%26%20Python-blue" alt="Language">
+  <img src="https://img.shields.io/badge/Method-DID%20%26%20SARIMA-lightgrey" alt="Method">
+</p>
+
 - Integrated Difference-in-Differences (DID) causal inference with SARIMA dynamic time-series forecasting to evaluate economic impacts.
 </div>
 </div>
@@ -83,3 +98,5 @@ Xuan Wang\*, **Zhijin Rong**\*, et al.
   - Applying mathematical and statistical theories, specifically Bayesian estimation and robust regression modeling methodologies, to systematically eliminate batch effects in viral abundance across high-throughput sequencing datasets.
 - **DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification** | *First Author* (2023.11 - Present)
   - Developed the DARE dual-enhancement framework using statistical sampling theory, combining image-space low-order statistic perturbation and feature-space pseudo-domain interpolation to resolve domain shift issues under few-shot scenarios. Resulted in a first-author paper currently under revision at *Biomedical Signal Processing and Control* (JCR Q1).
+- **Research on the Economic Impact of Coastal Seafood Industry Based on DID-SARIMA Model** | *Co-First Author* (2023 - 2024)
+  - Integrated the Difference-in-Differences (DID) method for policy impact causal inference and utilized the SARIMA model for seasonal time-series dynamic forecasting, quantitatively evaluating the long-term economic effects of nuclear wastewater discharge on the regional coastal seafood industry. Resulted in a co-first-author publication in *Highlights in Science, Engineering and Technology*.
