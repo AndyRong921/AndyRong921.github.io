@@ -79,11 +79,13 @@ Xuan Wang\*, **Zhijin Rong**\*, et al.
 
 
 # 🎖 Honors and Awards
-- *2025.04* **Meritorious Winner (International First Prize)**, Mathematical Contest in Modeling (MCM/ICM)
-- *2025.09* **National Second Prize**, National Undergraduate Mathematics Modeling Competition (CUMCM)
-- *2024.10* **First-Class Comprehensive University Scholarship** & **Outstanding Student of the University** (2023-2024, 2024-2025)
-- *2025.06* **Provincial Second Prize**, National Undergraduate Mathematics Modeling Competition (CUMCM, 2024)
-- *2025.03* **Honorable Mention**, Mathematical Contest in Modeling (MCM, 2026)
+- *2026.05* **Honorable Mention**, Mathematical Contest in Modeling (MCM，2026)
+- *2025.11* **First-Class Comprehensive University Scholarship** & **Outstanding Student of the University** (2024-2025)
+- *2025.11* **National Second Prize**, National Undergraduate Mathematics Modeling Competition (CUMCM，2025)
+- *2025.05* **Meritorious Winner**, Mathematical Contest in Modeling (ICM，2025)
+- *2024.11* **First-Class Comprehensive University Scholarship** & **Outstanding Student of the University** (2023-2024)
+- *2024.11* **Provincial Second Prize**, National Undergraduate Mathematics Modeling Competition (CUMCM, 2024)
+
 
 
 # 📖 Education
