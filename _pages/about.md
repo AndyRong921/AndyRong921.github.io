@@ -42,7 +42,7 @@ I have a strong background in mathematical modeling and scientific computing, ha
 
 **Zhijin Rong**, X. Zeng\*, J. Zhang, Q. Zhang\*
 
-<sup>*</sup>Corresponding author.</small>
+<sup>*</sup>Corresponding author.
 
 *Biomedical Signal Processing and Control* (Under Revision, 2026)
 
