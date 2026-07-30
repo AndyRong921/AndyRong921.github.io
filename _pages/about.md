@@ -40,7 +40,9 @@ I have a strong background in mathematical modeling and scientific computing, ha
 
 [DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification](https://scholar.google.com/citations?user=qgcpKl4AAAAJ)
 
-**Zhijin Rong**, Xueying Zeng\*, J. Zhang, Q. Zhang
+**Zhijin Rong**, X. Zeng\*, J. Zhang, Q. Zhang\*
+
+<sup>*</sup>Corresponding author.</small>
 
 *Biomedical Signal Processing and Control* (Under Revision, 2026)
 
@@ -62,7 +64,8 @@ I have a strong background in mathematical modeling and scientific computing, ha
 
 [A Study on the Impact of Nuclear Pollution Discharge on the Seafood Industry in Coastal Cities Based on the DID-SARIMA Model](https://doi.org/10.54097/fy4z4r12)
 
-Xuan Wang\*, **Zhijin Rong**\*, et al.
+X. Wang\*&dagger;, **Zhijin Rong&dagger;**, Z. Zhang, Y. Liu, F. Yang, X. Song.
+  <br><small><sup>&dagger;</sup>Equal contribution. <sup>*</sup>Corresponding author.</small>
 
 *Highlights in Science, Engineering and Technology*, 2025
 
@@ -91,6 +94,8 @@ Xuan Wang\*, **Zhijin Rong**\*, et al.
 # 📖 Educations
 - *2023.09 - Present*, **Ocean University of China (OUC)**, Qingdao, China.
   - Undergraduate student in Mathematics and Applied Mathematics.
+  - *2024.07*, **National University of Singapore (NUS)**, Singapore. 
+    - Visiting Student, Data Analytics and Mathematical Statistics Programme (*Overall Grade: Distinction*).
 
 
 # 💼 Academic Service
