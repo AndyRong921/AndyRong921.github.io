@@ -92,21 +92,21 @@ X. Wang\*&dagger;, **Zhijin Rong&dagger;**, Z. Zhang, Y. Liu, F. Yang, X. Song.
 
 
 # 📖 Educations
-<div class="education-item">
-  <div class="education-logo">
-    <img src="/images/OUC.png" alt="OUC Logo" style="width: 200px; height: 120px;">
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <div style="flex-shrink: 0;">
+    <img src="/images/OUC.png" alt="OUC Logo" style="max-height: 60px; width: auto; object-fit: contain;">
   </div>
-  <div class="education-content">
+  <div>
     <strong>2023.09 - Present, Ocean University of China (OUC), Qingdao, China</strong><br>
     <strong>Undergraduate</strong> in Mathematics and Applied Mathematics
   </div>
 </div>
 
-<div class="education-item">
-  <div class="education-logo">
-    <img src="/images/NUS.png" alt="NUS Logo" style="width: 200px; height: 120px;">
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <div style="flex-shrink: 0;">
+    <img src="/images/NUS.png" alt="NUS Logo" style="max-height: 60px; width: auto; object-fit: contain;">
   </div>
-  <div class="education-content">
+  <div>
     <strong>2024.07 - 2024.07, National University of Singapore (NUS), Singapore</strong><br>
     <strong>Visiting Student</strong>, Data Analytics and Mathematical Statistics Programme (<em>Overall Grade: Distinction</em>)
   </div>
