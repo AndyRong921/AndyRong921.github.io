@@ -92,11 +92,10 @@ X. Wang\*&dagger;, **Zhijin Rong&dagger;**, Z. Zhang, Y. Liu, F. Yang, X. Song.
 
 
 # 📖 Educations
-- *2023.09 - Present*, **Ocean University of China (OUC)**, Qingdao, China.
+- <img src="images/OUC.png" width="25" style="vertical-align: middle;" /> *2023.09 - Present*, **Ocean University of China (OUC)**, Qingdao, China.
   - Undergraduate student in Mathematics and Applied Mathematics.
-  - *2024.07*, **National University of Singapore (NUS)**, Singapore. 
-    - Visiting Student, Data Analytics and Mathematical Statistics Programme (*Overall Grade: Distinction*).
-
+- <img src="images/NUS.png" width="25" style="vertical-align: middle;" /> *2024.07*, **National University of Singapore (NUS)**, Singapore. 
+  - Visiting Student, Data Analytics and Mathematical Statistics Programme (*Overall Grade: Distinction*).
 
 # 💼 Academic Service
 - *2025.03 - 2026.06*, **Teaching Assistant**, Undergraduate second-year courses of OUC, Numerical methods.
