@@ -94,7 +94,7 @@ X. Wang\*&dagger;, **Zhijin Rong&dagger;**, Z. Zhang, Y. Liu, F. Yang, X. Song.
 # 📖 Educations
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <div style="flex-shrink: 0;">
-    <img src="/images/OUC.png" alt="OUC Logo" style="max-height: 60px; width: auto; object-fit: contain;">
+    <img src="/images/OUC.png" alt="OUC Logo" style="max-height: 90px; width: auto; object-fit: contain;">
   </div>
   <div>
     <strong>2023.09 - Present, Ocean University of China (OUC), Qingdao, China</strong><br>
@@ -104,7 +104,7 @@ X. Wang\*&dagger;, **Zhijin Rong&dagger;**, Z. Zhang, Y. Liu, F. Yang, X. Song.
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <div style="flex-shrink: 0;">
-    <img src="/images/NUS.png" alt="NUS Logo" style="max-height: 60px; width: auto; object-fit: contain;">
+    <img src="/images/NUS.png" alt="NUS Logo" style="max-height: 90px; width: auto; object-fit: contain;">
   </div>
   <div>
     <strong>2024.07 - 2024.07, National University of Singapore (NUS), Singapore</strong><br>
