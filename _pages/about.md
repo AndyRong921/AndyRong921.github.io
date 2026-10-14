@@ -23,7 +23,7 @@ I have a strong background in mathematical modeling and scientific computing, ha
 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Our paper on "DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification" received a revision invitation from *Biomedical Signal Processing and Control* (BSPC, JCR Q1).
+- *2026.10*: &nbsp;🎉🎉 Our paper on "DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification" has been accepted by *Biomedical Signal Processing and Control* (BSPC, JCR Q1).
 - *2026.05*: &nbsp;🎉🎉 Awarded Honorable Mention (International Second Prize) in the 2026 Mathematical Contest in Modeling (MCM).
 - *2026.04*: &nbsp;🎉🎉 Honored as Outstanding Teaching Assistant of the University (top 1% university-wide) for the course Ordinary Differential Equation.
 - *2025.11*: &nbsp;🎉🎉 Awarded National Second Prize in the 2025 National Undergraduate Mathematics Modeling Competition.
@@ -35,7 +35,7 @@ I have a strong background in mathematical modeling and scientific computing, ha
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC (Revise)</div><img src='images/dare.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC</div><img src='images/dare.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification](https://scholar.google.com/citations?user=qgcpKl4AAAAJ)
@@ -44,7 +44,7 @@ I have a strong background in mathematical modeling and scientific computing, ha
 
 <sup>*</sup>Corresponding author.
 
-*Biomedical Signal Processing and Control* (Under Revision, 2026)
+*Biomedical Signal Processing and Control* (Accept, 2026)
 
 [**Project**](https://github.com/AndyRong921/DARE) <strong><span class='show_paper_citations' data='qgcpKl4AAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -82,6 +82,7 @@ X. Wang\*&dagger;, **Zhijin Rong&dagger;**, Z. Zhang, Y. Liu, F. Yang, X. Song.
 
 
 # 🎖 Honors and Awards
+- *2026.10* **National Scholarship** (2025-2026)
 - *2026.05* **Honorable Mention**, Mathematical Contest in Modeling (MCM，2026)
 - *2025.11* **First-Class Comprehensive University Scholarship** & **Outstanding Student of the University** (2024-2025)
 - *2025.11* **National Second Prize**, National Undergraduate Mathematics Modeling Competition (CUMCM，2025)
@@ -109,6 +110,16 @@ X. Wang\*&dagger;, **Zhijin Rong&dagger;**, Z. Zhang, Y. Liu, F. Yang, X. Song.
   <div>
     <strong>2024.07 - 2024.07, National University of Singapore (NUS), Singapore</strong><br>
     <strong>Visiting Student</strong>, Data Analytics and Mathematical Statistics Programme (<em>Overall Grade: Distinction</em>)
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <div style="flex-shrink: 0;">
+    <img src="/images/HITSZ.png" alt="HIT Shenzhen Logo" style="max-height: 150px; width: auto; object-fit: contain;">
+  </div>
+  <div>
+    <strong>2027.09 - 2032.06 (Expected), Harbin Institute of Technology, Shenzhen (HITSZ), Shenzhen</strong><br>
+    <strong>Direct Ph.D. Student</strong>, <em>(Expected)</em>
   </div>
 </div>
 
