@@ -113,15 +113,6 @@ X. Wang\*&dagger;, **Zhijin Rong&dagger;**, Z. Zhang, Y. Liu, F. Yang, X. Song.
   </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <div style="flex-shrink: 0;">
-    <img src="/images/HITSZ.png" alt="HIT Shenzhen Logo" style="max-height: 300px; width: auto; object-fit: contain;">
-  </div>
-  <div>
-    <strong>2027.09 - 2032.06 (Expected), Harbin Institute of Technology, Shenzhen (HITSZ), Shenzhen</strong><br>
-    <strong>Direct Ph.D. Student</strong>
-  </div>
-</div>
 
 # 💼 Academic Service
 - *2025.03 - 2026.06*, **Teaching Assistant**, Undergraduate second-year courses of OUC, Numerical methods.
