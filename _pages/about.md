@@ -119,8 +119,7 @@ X. Wang\*&dagger;, **Zhijin Rong&dagger;**, Z. Zhang, Y. Liu, F. Yang, X. Song.
   </div>
   <div>
     <strong>2027.09 - 2032.06 (Expected), Harbin Institute of Technology, Shenzhen (HITSZ), Shenzhen</strong><br>
-    <strong>Direct Ph.D. Student</strong>, <em>(Expected)</em>
-  </div>
+    <strong>Direct Ph.D. Student
 </div>
 
 # 💼 Academic Service
