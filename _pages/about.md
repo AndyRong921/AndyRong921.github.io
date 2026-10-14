@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Zhijin Rong (容志谨), an undergraduate student in Mathematics and Applied Mathematics at Ocean University of China. My research interests focus on **mathematical principles in machine learning (particularly domain shift problems), image processing and analysis, and biomedical data (computational biology and computational pathology)**. 
+Hello! I am Zhijin Rong (容志谨), an undergraduate student in Mathematics and Applied Mathematics at Ocean University of China. My research interests focus on **image processing (classification, segmentation, reconstruction, and denoising)** and **trustworthy AI (information alignment and agent deception)**. 
 
 I have a strong background in mathematical modeling and scientific computing, having won awards such as the Meritorious Winner in the 2025 MCM/ICM and National Second Prize in the 2025 CUMCM. You can check my Google Scholar profile <a href='https://scholar.google.com/citations?user=qgcpKl4AAAAJ'>here <strong><span id='total_cit'></span></strong></a> 
 
@@ -115,7 +115,7 @@ X. Wang\*&dagger;, **Zhijin Rong&dagger;**, Z. Zhang, Y. Liu, F. Yang, X. Song.
 
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <div style="flex-shrink: 0;">
-    <img src="/images/HITSZ.png" alt="HIT Shenzhen Logo" style="max-height: 150px; width: auto; object-fit: contain;">
+    <img src="/images/HITSZ.png" alt="HIT Shenzhen Logo" style="max-height: 300px; width: auto; object-fit: contain;">
   </div>
   <div>
     <strong>2027.09 - 2032.06 (Expected), Harbin Institute of Technology, Shenzhen (HITSZ), Shenzhen</strong><br>
