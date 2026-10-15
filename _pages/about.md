@@ -19,6 +19,10 @@ redirect_from:
 
 Hello! I am Zhijin Rong (容志谨), an undergraduate student in Mathematics and Applied Mathematics at Ocean University of China. My research interests focus on **image processing (classification, segmentation, reconstruction, and denoising)** and **trustworthy AI (information alignment and agent deception)**. 
 
+<p style="text-align: center;">
+  <img src="qizai.png" alt="person" width="40">
+</p>
+
 I have a strong background in mathematical modeling and scientific computing, having won awards such as the Meritorious Winner in the 2025 MCM/ICM and National Second Prize in the 2025 CUMCM. You can check my Google Scholar profile <a href='https://scholar.google.com/citations?user=qgcpKl4AAAAJ'>here <strong><span id='total_cit'></span></strong></a> 
 
 
@@ -37,8 +41,8 @@ I have a strong background in mathematical modeling and scientific computing, ha
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSPC</div><img src='images/dare.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification](https://scholar.google.com/citations?user=qgcpKl4AAAAJ)
+  
+[DARE: Domain-Aware Representation Enhancement for Data-Efficient Histopathological Tissue Classification](https://doi.org/10.1016/j.bspc.2026.111648)
 
 **Zhijin Rong**, X. Zeng\*, J. Zhang, Q. Zhang\*
 
