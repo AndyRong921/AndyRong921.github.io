@@ -20,7 +20,7 @@ redirect_from:
 Hello! I am Zhijin Rong (容志谨), an undergraduate student in Mathematics and Applied Mathematics at Ocean University of China. My research interests focus on **image processing (classification, segmentation, reconstruction, and denoising)** and **trustworthy AI (information alignment and agent deception)**. 
 
 <p>
-  <img src='images/qizai.png' alt="person" width="200">
+  <img src='images/qizai.png' alt="person" width="150">
 </p>
 
 I have a strong background in mathematical modeling and scientific computing, having won awards such as the Meritorious Winner in the 2025 MCM/ICM and National Second Prize in the 2025 CUMCM. You can check my Google Scholar profile <a href='https://scholar.google.com/citations?user=qgcpKl4AAAAJ'>here <strong><span id='total_cit'></span></strong></a> 
